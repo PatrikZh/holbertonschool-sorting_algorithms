@@ -61,7 +61,7 @@ void lomuto(int *array, int first, int last, int size)
 }
 
 /**
- * quick_sort - calls the lomuto function to persorm the quick sort algorithm
+ * quick_sort - calls the lomuto function to perform the quick sort algorithm
  * @array: array to sort
  * @size: size of array
  */
